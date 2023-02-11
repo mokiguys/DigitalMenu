@@ -1,0 +1,192 @@
+<?php
+
+return [
+
+    /*
+    |--------------------------------------------------------------------------
+    | Text Page Language Lines
+    |--------------------------------------------------------------------------
+    |
+    |
+    |
+    */
+
+
+    'titleLogin' => ' تسجيل الدخول إلى لوحة الإدارة',
+    'email' => ' البريد الإلكتروني',
+    'password' => ' كلمة المرور',
+    'login' => 'دخول',
+    'language' => 'لغة',
+    'persian' => 'الفارسية',
+    'english' => 'الإنجليزية',
+    'turkish' => 'التركية',
+    'arabic' => 'عربی',
+//    item dashboard
+    'dashboard' => 'لوحة القيادة',
+    'menu_items' => 'القائمة الرئيسية',
+    'lang' => 'لغة',
+    'exit' => 'خروج',
+    'banner' => 'راية',
+    'categories' => 'التصنيفات',
+    'cities' => 'مدن',
+    'city' => 'مدينة',
+    'country' => 'بلدان',
+    'province' => 'محافظات',
+    'country_single' => 'بلد',
+    'province_single' => 'محافظة',
+    'shops' => 'المتاجر',
+    'amenities' => 'امکانات',
+    'shopCategory' => 'فئة المحل',
+    'MenuCategory' => 'فئة القائمة',
+    'foods' => 'الأطعمة الموصى بها',
+    'category' => 'الفئة',
+    'confirmation_admin' => 'قبول',
+    'plan' => 'خطة',
+    'ingredients' => 'مواد غذائية المقترح',
+    'shopAdd' => 'إضافة متجر',
+    'shopList' => 'قائمة المتاجر',
+//    text page
+    'bannerTitle' => 'تحریر راية',
+    'bannerEdit' => 'تحریر راية',
+    'BannerMedia' => 'وسائل الإعلام',
+//    City page
+    'CityTitle' => 'إضافة و قائمة المدن',
+    'CityTitleAdd' => 'إضافة مدن',
+    'CityTitleEdit' => ' تحریر المدينة ',
+
+    //    Province page
+    'ProvinceTitle' => 'إضافة و قائمة المحافظات',
+    'ProvinceTitleAdd' => ' إضافة المحافظة',
+    'ProvinceTitleEdit' => 'تحریر المحافظة',
+    //    Country page
+    'CountryTitle' => 'إضافة و قائمة البلدان',
+    'CountryTitleAdd' => ' اضافة البلد',
+    'CountryTitleEdit' => 'تحریر البلد',
+    //    Amenities page
+    'AmenitiesTitle' => 'اضافة و القائمة الامکانات',
+    'AmenitiesTitleAdd' => 'اضافة الامکانات',
+    'AmenitiesTitleEdit' => 'تحریر الامکانات',
+    //    CategoryStore page
+    'CategoryStoreTitle' => ' اضافة و قائمة فئة المتجر',
+    'CategoryStoreTitleAdd' => ' اضافة الفئة',
+    'CategoryStoreTitleEdit' => ' تحریر الفئة',
+    //    CategoryFood page
+    'CategoryFoodTitle' => 'إضافة و قائمة فئة قائمة طعام',
+    'CategoryFoodTitleAdd' => 'إضافة فئة',
+    'CategoryFoodTitleEdit' => 'تحرير الفئة',
+    //    foods page
+    'foodsTitle' => 'إضافة و قائمة الأطعمة الموصى بها',
+    'foodsTitleAdd' => ' إضافة الأطعمة الموصى بها',
+    'foodsTitleEdit' => 'تحریر الأطعمة الموصى بها',
+    //    Ingredient page
+    'IngredientTitle' => 'إضافة و القائمة المواد غذائية',
+    'IngredientTitleAdd' => 'إضافة المواد غذائية',
+    'IngredientTitleEdit' => 'تحریر المواد غذائية',
+    'IngredientPlaceholder' => 'اختر المواد غذائية التي تريدها',
+    //    Plan page
+    'PlanTitle' => 'قائمة الخطط',
+    'PlanTitleEdit' => 'تحرير الخطة',
+    'priceInRial' => 'السعر بالريال',
+    'priceInDollars' => 'السعر بالدولار',
+    'priceInLira' => 'السعر بالليرة',
+    'roles_fa' => 'قوانين باللغة الفارسية',
+    'roles_en' => 'قوانين باللغة الإنجليزية',
+    'roles_tr' => 'قوانین باللغة التركية',
+    'roles_Separate' => ' قوانین منفصلة بعلامة',
+    //    shop page
+    'shopTitle' => 'قائمة المتاجر',
+    'ShopEdit' => 'تحرير المتجر',
+    'subtitle_fa' => 'شعار المتجر باللغة الفارسية',
+    'subtitle_en' => 'شعار المتجر باللغة الإنجليزية',
+    'subtitle_tr' => 'شعار المتجر باللغة التركية
+',
+    'address_type' => 'نوع العنوان',
+    'address_fa' => 'العنوان باللغة الفارسية',
+    'address_en' => 'العنوان باللغة الإنجليزية',
+    'address_tr' => 'العنوان باللغة التركية',
+    'description_fa' => ' الأوصاف باللغة الفارسية',
+    'description_en' => 'الأوصاف باللغة الإنجليزية',
+    'description_tr' => 'الأوصاف باللغة التركية',
+    'logo' => 'رمز المتجر',
+    'main_image' =>'صورة لواجهة المتجر',
+    'video_link' => 'رابط الفيديو',
+    'tell' => 'رقم الهاتف',
+    'fax' => 'فاكس',
+    'phone' => 'هاتف خلوي',
+    'whatsapp' => 'واتس اب',
+    'website' => 'موقع الكتروني',
+    'instagram' => ' انستقرام',
+    'facebook' => ' فيس بوك',
+    'twitter' => ' تويتر',
+    'telegram' => 'تلغرام',
+    'youtube' => 'یوتیوب',
+    'external_link' => ' رابط خارجي',
+    //    plan page
+    'planTitle' =>'قائمة الخطط',
+    'planEdit' => ' تحرير الخطة',
+    'planType' => ' نوع الخطة',
+    'premium' => ' الممتازة',
+    'standard' => 'استاندارد',
+    'free' => 'مجانا',
+    'price' => ' السعر',
+    'menu' => ' قائمة طعام',
+    'discount' => ' خصم',
+    //  public text
+    'exm_loc' => 'مثال : 35.782978, 51.444872',
+    'select_default' => 'إختر واحد من فضلك',
+    'title_fa' => 'العنوان الفارسي',
+    'title_en' => 'العنوان الإنجليزية',
+    'title_tr' => 'عنوان تركي',
+    'location' => 'موقع جغرافي',
+    'image' => 'صورة',
+    'row' => "صف",
+    'edit' => "تحریر",
+    'delete' => "حذف",
+    'close' => 'لإغلاق',
+    'submit' => 'ثبت',
+    'title' => 'عنوان',
+    'fullName' => 'الاسم الأول واسم العائلة',
+    'emailShop' => 'متجر البريد الإلكتروني',
+    'expire' => 'تاريخ انتهاء الصلاحية',
+    'text_email' => 'إذا قمت بتمييزه ، فسيتم عرض البريد الإلكتروني المسجل في الحساب المختار لعملائك.',
+    'new_user' => 'إذا قمت بتمييزه ، يجب عليك اختيار مالك المتجر من المستخدمين المسجلين ',
+    'user' => 'المستخدمين',
+    'status_shop' => 'حالة المتجر',
+    'select_plan' => 'حدد خطة',
+    'active' => 'نشيط',
+    'warning' => 'تحذير',
+    'deActive' => 'غير نشط',
+    'dayExpire' => ':day يوم',
+    'dayLeft' => ':day ايام متبقية ',
+    'dayBeen' => ':day روز گذشته است',
+    'delete_message' => "هل أنت متأكد أنك تريد حذف هذا ؟",
+//    currency
+    'currency' => 'عملة',
+    'currencyTitle' => 'تحديث العملة',
+    'currencyAutoTitle' => 'التحديث التلقائي للعملات',
+    'currencyHandTitle' => 'تحديث العملة اليدوي',
+    'usdPrice' => 'سعر الدولار',
+    'tryPrice' => 'سعر الليرة التركية',
+    'key' => 'Api key',
+    'florance' => 'تقريب النسبة المئوية',
+    'updateLastTimeCurrency' => 'اخر تحديث : :time ',
+    'accepted' => 'قبول',
+    'not_approved' => 'غير مقبول',
+// menu
+    "titleFood" => 'عنوان',
+    "typeFood" => 'نوع الطعام',
+    "priceFood" => 'السعر',
+    "discountFood" => 'خصم',
+    "existFood" => 'وجود',
+    "n_available" => ' غير متوفر',
+    "available" => ' متوفر',
+    "categoryFood" => ' فئة',
+    "AddFood" => ' أضف إلى القائمة الطعام',
+    "priceTypeCurrency" => ' الوحدة النقدية',
+    'rial' => 'ریال',
+    'lira' => 'لیر',
+    'read_more' => 'اقرأ أكثر'
+//    ticket
+
+
+];

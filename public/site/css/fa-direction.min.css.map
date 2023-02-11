@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../sass/fa-direction.scss"
+    ],
+    "names": [],
+    "file": "fa-direction.min.css"
+}
